@@ -12,10 +12,9 @@ At Novatide Labs, we are passionate about creating cutting-edge solutions in art
 ---
 
 ## 🔧 Our Tech Stack
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: Flask, React, Django
-- **Tools**: Docker, Redis, PostgreSQL, Alembic
-- **APIs**: Google Drive API, Coingecko, Defillama, CoinMarketCap
+- **Languages**: Python, JavaScript, SQL, Ruby.
+- **Frameworks**: Flask, React, Node
+- **Tools**: Docker, Redis, PostgreSQL
 
 ---
 
@@ -28,10 +27,10 @@ We specialize in delivering impactful solutions, including:
 ---
 
 ## 🤝 Let's Collaborate
-- 🌐 **Website**: [Coming Soon!]
-- 📧 **Email**: [Your Contact Email]
-- 💼 **LinkedIn**: [Your Company LinkedIn Profile]
-- 🐦 **Twitter**: [Your Company Twitter Handle]
+We are always open to new partnerships and opportunities! Reach out to us through any of the following channels:
+- 🌐 **Website**: [www.novatidelabs.com](https://www.novatidelabs.com/)
+- 📧 **Email**: [team@novatidelabs.com](mailto:team@novatidelabs.com)
+- 💼 **LinkedIn**: [Novatide Labs](https://www.linkedin.com/company/novatide-labs/)
 
 ---
 
